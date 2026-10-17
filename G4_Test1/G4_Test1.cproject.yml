@@ -4,9 +4,7 @@ project:
   groups:
     - group: Source Files
       files:
-        - file: ./main.c
-        - file: configLED.h
-        - file: configLED.c
+        - file: main.s
 
     - group: Device
       files:
